@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Shopping helper</string>
+    <string name="main_text_helper">Shopping helper</string>
+    <string name="register_text"><u>Not registered yet ? Be a new user</u></string>
+    <string name="forgot_password_text"><u>Forgot your password ?</u></string>
+    <string name="login_button">Login</string>
+    <string name="submit_button">Submit</string>
+    <string name="registration_string">Registration</string>
+    <string name="registration_string_update">Update registration</string>
+    <string name="credit_card">Credit or debit card number. Opt.</string>
+    <string name="credit_card_security_number">Security number</string>
+    <string name="credit_card_expiry_date">Expiry date</string>
+    <string name="register_button">Register</string>
+    <string name="register_button_update">Update</string>
+    <string name="first_name">First name</string>
+    <string name="second_name">Second name</string>
+    <string name="email_registration">Email</string>
+    <string name="registration_password">Type password</string>
+    <string name="registration_password_retype">Retype password</string>
+    <string name="registration_number">Phone number</string>
+    <string name="item_out">Log out</string>
+    <string name="add_item">Add item</string>
+    <string name="configurations">Configurations</string>
+    <string name="search_hint">Search</string>
+    <string name="other">Other</string>
+    <string name="sms_hint">0000</string>
+
+    <string name="search">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment 1</string>
+    <string name="hello_blank_fragment_2">Hello blank fragment 1</string>
+    <string name="butto_confirmation">OK</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="barcode_header">Click &quot;Read Barcode&quot; to read a barcode</string>
+    <string name="read_barcode">Read Barcode</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="barcode_success">Barcode read successfully</string>
+    <string name="barcode_failure">No barcode captured</string>
+    <string name="barcode_error">"Error reading barcode: %1$s"</string>
+    <string name="description_title">DETAILS</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_pay">Pay</string>
+    <string name="nav_movies">Movies</string>
+    <string name="pay_notification">Pay</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_fruits_rec">Recognize fruits</string>
+    <string name="nav_about_us">About Us</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Pay</item>
+        <item>Settings</item>
+        <item>Recognize fruits</item>
+        <item>Logout</item>
+    </string-array>
+
+    <!-- Months -->
+    <string-array name="months_year">
+        <item>Month</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="pay_card">PAY USING CARD</string>
+    <string name="pay_cash">CASH</string>
+    <string name="qr_code_content_description">qr_code_bitmap</string>
+    <string name="password_text">Password</string>
+    <string name="email_text">Email</string>
+    <string name="logo_description">Logo</string>
+    <string name="total_text">Total :</string>
+    <string name="scan_message">Scan the code below to pay using cash or pay using your card and scan the code to print your receipt</string>
+    <string name="payment_confirmation">payment_confirmation</string>
+    <string name="card_hint_number">0000.0000.0000.0000</string>
+    <string name="card_hint_name">Name on your card</string>
+    <string name="card_hint_securityNumber">000</string>
+    <string name="img_drawer_header">img_drawer_header</string>
+    <string name="forgot_password_text_email">Type your email below</string>
+    <string name="policy_text">Company Advance analytics technology operates the mobile application Shopping helper, which provides services of shopping automation.  This Screen is used to inform app users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the application Shopping helper.  If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.</string>
+    <string name="about_us_textview">Advance analytics technology is a software development company and it is involving in development of products and custom software/application. All of the products developed by the company are based on deep research on current situation in particular domain and solving social problems in that domain.</string>
+
+
+</resources>

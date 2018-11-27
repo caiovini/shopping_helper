@@ -1,0 +1,33 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.caio.shoppinghelper.fragments.DescriptionFragment"
+    android:id="@+id/id_fragment_description"
+    android:background="@color/primaryLightColor">
+
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lv_nutrition"
+        android:divider="@color/black"
+        android:dividerHeight="1dp"
+        android:layout_gravity="center_horizontal|top"
+        android:isScrollContainer="true"
+        android:animateLayoutChanges="true">
+    </ListView>
+
+    <ProgressBar
+        android:id="@+id/progressBarNutrition"
+        style="@style/AlertDialog.AppCompat.Light"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:indeterminate="true"
+        android:indeterminateDrawable="@drawable/progress_bar"
+        android:visibility="invisible"
+        android:layout_marginTop="150dp"/>
+
+</FrameLayout>

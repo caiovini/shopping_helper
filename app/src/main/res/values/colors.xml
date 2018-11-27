@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="list_view_text_color">#2f44ce</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="toolbar_color">#45525e</color>
+    <color name="main_text_color">#cc6e6666</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#0d0505</color>
+    <color name="silverGrey">#494343</color>
+    <color name="primaryColor">#42a5f5</color>
+    <color name="primaryLightColor">#80d6ff</color>
+    <color name="primaryDarkColor">#0077c2</color>
+    <color name="primaryTextColor">#000000</color>
+    <color name="hintTextColor">#8d291817</color>
+
+</resources>

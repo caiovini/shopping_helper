@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/pay_navigation"
+            android:icon="@drawable/ic_payment_grey"
+            android:title="@string/nav_pay"/>
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings_black"
+            android:title="@string/nav_settings" />
+        <item
+            android:id="@+id/recognize_fruits"
+            android:icon="@drawable/ic_photo_camera"
+            android:title="@string/nav_fruits_rec" />
+        <item
+            android:id="@+id/sign_out"
+            android:icon="@drawable/ic_exit_to_app_red"
+            android:title="@string/action_logout" />
+    </group>
+
+    <item android:title="@string/other">
+        <menu>
+            <item
+                android:id="@+id/nav_about_us"
+                android:title="@string/nav_about_us" />
+            <item
+                android:id="@+id/nav_privacy_policy"
+                android:title="@string/privacy_policy" />
+        </menu>
+    </item>
+
+</menu>
