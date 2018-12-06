@@ -15,6 +15,8 @@ Customers will have 2 options for payment, using the app which is going to have 
 
 An API was developed to recognize fruits using AI as the customer is not able to scan fruits. Everytime the user is willing to add a fruit to the shopping cart, one will have to take a picture and the API will try to identify it. The dataset of images used to create the model for the AI is limited therefore it should be improved.
 
+API file: read_fruit.py
+
 Source of the dataset:
 
 Link https://github.com/Horea94/Fruit-Images-Dataset
