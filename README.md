@@ -11,3 +11,12 @@ Proposed system will provide a solution to reduce queues in supermarkets and inc
 
 
 Customers will have 2 options for payment, using the app which is going to have their credit or debit card number previously registered and using the self-checkout machines payment options (cash or card). If the customers use the system to pay, they will still have to go to the self-checkout machines to confirm transaction and print the receipt if they wish for, however the time spent on these operations will be significantly reduced, considering that all products have being already scanned and EFTPOS machines will not be used.
+
+
+An API was developed to recognize fruits using AI as the customer is not able to scan fruits. Everytime the user is willing to add a fruit to the shopping cart, one will have to take a picture and the API will try to identify it. The dataset of images used to create the model for the AI is limited therefore it should be improved.
+
+Source of the dataset:
+
+Link https://github.com/Horea94/Fruit-Images-Dataset
+
+Horea Muresan, Mihai Oltean, Fruit recognition from images using deep learning, Acta Univ. Sapientiae, Informatica Vol. 10, Issue 1, pp. 26-42, 2018.
