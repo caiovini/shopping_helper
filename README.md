@@ -22,3 +22,9 @@ Source of the dataset:
 Link https://github.com/Horea94/Fruit-Images-Dataset
 
 Horea Muresan, Mihai Oltean, Fruit recognition from images using deep learning, Acta Univ. Sapientiae, Informatica Vol. 10, Issue 1, pp. 26-42, 2018.
+
+To run the project:
+
+git clone https://github.com/caiovini/shopping_helper.git
+
+Run it normally on android studio
