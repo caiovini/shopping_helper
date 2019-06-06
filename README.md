@@ -28,3 +28,5 @@ To run the project:
 git clone https://github.com/caiovini/shopping_helper.git
 
 Run it normally on android studio
+
+You may want to run the API for the fruits on https://github.com/caiovini/Image_reader_api
