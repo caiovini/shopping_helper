@@ -1,2 +1,0 @@
-model_checkpoint_path: "c:\\data\\fruit_models\\model.ckpt"
-all_model_checkpoint_paths: "c:\\data\\fruit_models\\model.ckpt"
